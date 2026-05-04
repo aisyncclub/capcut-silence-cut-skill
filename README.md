@@ -6,6 +6,18 @@ CapCut Mac 프로젝트의 무음 구간을 안전하게 자동 컷편집하는 
 
 📌 AI Sync Club 커뮤니티 가입하기: https://litt.ly/aisyncclub
 
+## AI Sync Club 링크
+
+- [전체 링크 모음](https://litt.ly/aisyncclub)
+- [클럽장 소개 · AI싱크클럽 포트폴리오](https://portfolio.aisyncclub.com/)
+- [유튜브 @AISyncClub](https://www.youtube.com/@AISyncClub)
+- [저서 · 30일 제미나이 혁명](https://link.yes24.com/a/LdbVYSB2UH)
+- [쓰레드 @ai_sync_club](https://www.threads.com/@ai_sync_club)
+- [커뮤니티 1번방 · 메인 오픈채팅](https://open.kakao.com/o/g1uolIwg)
+- [커뮤니티 2번 · 초보방 AI 입문 오픈채팅](https://open.kakao.com/o/gQBwQcDh)
+- [커뮤니티 3번 · 재테크방 오픈채팅](https://open.kakao.com/o/gbqHAHdi)
+- [카카오채널 · 공지와 업데이트 수신](http://pf.kakao.com/_WYivn/friend)
+
 ---
 
 ## CapCut Silence Cut Skill
