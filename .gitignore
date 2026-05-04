@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+capcut_reports/
+capcut_backup/
+*.mp4
+*.mov
+*.wav
+*.m4a
+*.aac
+*.log
+
