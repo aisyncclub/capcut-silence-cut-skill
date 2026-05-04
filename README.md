@@ -1,22 +1,14 @@
-# AI싱크클럽
+# 🚀 AI Sync Club CapCut 무음 컷편집 스킬
 
-AI싱크클럽은 **AI를 더 깊이 쓰고 싶은 사람들의 커뮤니티**입니다. Claude, Codex, CapCut 같은 AI 도구를 실제 업무와 콘텐츠 제작에 연결할 수 있도록 실습 자료, 강의, 커뮤니티, 자동화 도구를 함께 만듭니다.
+AI Sync Club Created by 싱크 License: MIT
 
-이 저장소는 AI싱크클럽에서 만든 CapCut 자동 무음 컷편집 스킬입니다. 비개발자도 안전하게 따라 쓸 수 있도록 dry-run, 전체 백업, CapCut 종료 확인을 기본 흐름에 포함했습니다.
+CapCut Mac 프로젝트의 무음 구간을 안전하게 자동 컷편집하는 AI Sync Club 공식 스킬
 
-- [전체 링크 모음](https://litt.ly/aisyncclub)
-- [클럽장 소개 · AI싱크클럽 포트폴리오](https://portfolio.aisyncclub.com/)
-- [유튜브 @AISyncClub](https://www.youtube.com/@AISyncClub)
-- [저서 · 30일 제미나이 혁명](https://link.yes24.com/a/LdbVYSB2UH)
-- [쓰레드 @ai_sync_club](https://www.threads.com/@ai_sync_club)
-- [커뮤니티 1번방 · 메인 오픈채팅](https://open.kakao.com/o/g1uolIwg)
-- [커뮤니티 2번 · 초보방 AI 입문 오픈채팅](https://open.kakao.com/o/gQBwQcDh)
-- [커뮤니티 3번 · 재테크방 오픈채팅](https://open.kakao.com/o/gbqHAHdi)
-- [카카오채널 · 공지와 업데이트 수신](http://pf.kakao.com/_WYivn/friend)
+📌 AI Sync Club 커뮤니티 가입하기: https://litt.ly/aisyncclub
 
 ---
 
-# CapCut Silence Cut Skill
+## CapCut Silence Cut Skill
 
 Claude/Codex에서 CapCut Mac 프로젝트의 무음 구간을 안전하게 컷편집하기 위한 스킬입니다.
 
